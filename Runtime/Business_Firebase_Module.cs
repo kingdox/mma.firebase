@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using UnityEngine;
 using Firebase;
 #endregion
-namespace Architecture.Business_Firebase
+namespace MMA.Business_Firebase
 {
     public static partial class Key
     {
