@@ -8,7 +8,8 @@
         "architecture",
         "modular",
         "middleware",
-        "unity"
+        "unity",
+        "firebase"
     ],
     "author": {
         "name": "Kingdox",
