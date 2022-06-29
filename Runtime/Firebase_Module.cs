@@ -6,19 +6,19 @@ using System.Threading.Tasks;
 using UnityEngine;
 using Firebase;
 #endregion
-namespace MMA.Business_Firebase
+namespace MMA.Firebase
 {
     public static partial class Key
     {
         // public const string _   = KeyData._;
-        public static string Initialize   = "Business_Firebase_Initialize";
-        public static string OnFirebaseAppIsReady = "Business_Firebase_OnFirebaseAppIsReady";
+        public static string Initialize   = "Firebase_Initialize";
+        public static string OnFirebaseAppIsReady = "Firebase_OnFirebaseAppIsReady";
     }
     public static partial class Import
     {
         //public const string _ = _;
     }
-    public sealed partial class Business_Firebase_Module : Module
+    public sealed partial class Firebase_Module : Module
     {
         #region References
         //[Header("Applications")]
