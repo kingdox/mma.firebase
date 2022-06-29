@@ -1,7 +1,7 @@
 {
-    "name": "com.kingdox.mma.business.firebase",
-    "version": "1.0.2",
-    "displayName": "Kingdox MMA.Business.Firebase",
+    "name": "com.kingdox.mma.firebase",
+    "version": "1.0.3",
+    "displayName": "Kingdox MMA.Firebase",
     "description": "Firebase Module",
     "unity": "2020.1",
     "keywords": [
@@ -18,7 +18,7 @@
     "hideInEditor": true,
     "repository": {
         "type": "git",
-        "url": "git+https://kingdox@github.com/kingdox/mma.business.firebase.git"
+        "url": "git+https://kingdox@github.com/kingdox/mma.firebase.git"
     },
     "license": "ISC",
     "bugs": {
